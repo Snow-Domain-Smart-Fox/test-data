@@ -88,6 +88,54 @@
       "author": "zym2013",
       "status": "active",
       "link": "https://shici.amlg.top"
+    },
+    {
+      "id": "compresser",
+      "name": "C++ 代码压缩",
+      "description": "C++ 代码压缩",
+      "icon": "fa-regular fa-file-zipper",
+      "iconSvg": null,
+      "category": "工具",
+      "tags": [
+        "C++"
+      ],
+      "content": "维护中，暂无介绍。",
+      "updatedAt": "2026-02-21T18:00:00.00Z",
+      "author": "zym2013",
+      "status": "maintenance",
+      "link": "https://compresser.amazingluogu.dpdns.org"
+    },
+    {
+      "id": "benben",
+      "name": "全网犇犇",
+      "description": "全网犇犇",
+      "icon": "fa-regular fa-comment-dots",
+      "iconSvg": null,
+      "category": "社区",
+      "tags": [
+        "社区"
+      ],
+      "content": "已停用，暂无介绍。",
+      "updatedAt": "2026-02-21T18:00:00.00Z",
+      "author": "zym2013",
+      "status": "inactive",
+      "link": "https://benben.amazingluogu.dpdns.org"
+    },
+    {
+      "id": "article",
+      "name": "文章广场",
+      "description": "文章广场",
+      "icon": "fa-solid fa-file-export",
+      "iconSvg": null,
+      "category": "社区",
+      "tags": [
+        "社区"
+      ],
+      "content": "已废弃，暂无介绍。",
+      "updatedAt": "2026-02-21T18:00:00.00Z",
+      "author": "zym2013",
+      "status": "deprecated",
+      "link": "https://article.amazingluogu.dpdns.org"
     }
   ]
 }
