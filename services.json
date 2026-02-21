@@ -53,6 +53,41 @@
       "author": "zym2013",
       "status": "active",
       "link": "https://jsdelivr.amlg.top"
+    },
+    {
+      "id": "translate",
+      "name": "翻译 API",
+      "description": "智能翻译",
+      "icon": "fa-solid fa-language",
+      "iconSvg": null,
+      "category": "API",
+      "tags": [
+        "开发",
+        "API"
+      ],
+      "content": "# Amazing Luogu 翻译 API\n\n<https://translate.amlg.top>。\n\n智能翻译，支持多种语言。\n\n## 使用说明\n\n1. <https://translate.amlg.top/?text=你好&to=en>。\n2. `text` 参数为需要翻译的文本，`to` 参数为目标翻译语言。\n3. 不保证该服务的稳定性，毕竟是 Free 版。\n\n## 更新日志\n\n暂无。",
+      "updatedAt": "2026-02-21T18:00:00.00Z",
+      "author": "zym2013",
+      "status": "active",
+      "link": "https://translate.amlg.top"
+    },
+    {
+      "id": "shici",
+      "name": "诗词 API",
+      "description": "强大的诗词 API，支持多种模式",
+      "icon": "fa-regular fa-newspaper",
+      "iconSvg": null,
+      "category": "API",
+      "tags": [
+        "开发",
+        "API",
+        "Markdown"
+      ],
+      "content": "# Amazing Luogu 诗词 API\n\n<https://shici.amlg.top>。\n\n诗词 API，提供多种模式，支持 Markdown 和 HTML 的图片嵌入。\n\n## 使用说明\n\n1. 访问 <https://shici.amlg.top> 即可阅读 API 文档。\n2. 不要滥用，图片加载需时间。\n\n## 更新日志\n\n暂无。",
+      "updatedAt": "2026-02-21T18:00:00.00Z",
+      "author": "zym2013",
+      "status": "active",
+      "link": "https://shici.amlg.top"
     }
   ]
 }
