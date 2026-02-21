@@ -15,7 +15,8 @@
       "content": "# Amazing Luogu 国际\n\n<https://luogu.amlg.top>。\n\n由于普通剪贴板与非全站推荐的文章只能在国际站浏览，而国际站不对国内用户开放，所以 Amazing Luogu 国际诞生了。\n\n该网站并非代理，而是在一些时刻保存了一些文章，以便国内用户浏览。\n\n## 使用说明\n\n1. 如果您想浏览最新版，请核对更新时间是否为最新，如果不是，请更新。\n2. 仅保存最新版，更新后旧版文章会丢失。\n3. API 不向外开放，该网站禁止滥用或反代。\n\n## 更新日志\n\n暂无。\n",
       "updatedAt": "2026-02-21T18:00:00.00Z",
       "author": "zym2013",
-      "status": "active"
+      "status": "active",
+      "link": "https://luogu.amlg.top"
     },
     {
       "id": "github-proxy",
@@ -32,7 +33,8 @@
       "content": "# Amazing Luogu Github 代理\n\n<https://ghproxy.amlg.top>。\n\n众所周知，不使用~~魔法~~时，Gitbub 在国内的访问是一坨，所以它诞生了。\n\n## 使用说明\n\n1. 仅能保证基本的浏览，无法登录，最后更新时间还在写。\n2. 不保证该服务的稳定性，说不定哪天就被 Github 挂了。\n\n## 更新日志\n\n暂无。",
       "updatedAt": "2026-02-21T18:00:00.00Z",
       "author": "zym2013",
-      "status": "active"
+      "status": "active",
+      "link": "https://ghproxy.amlg.top"
     },
     {
       "id": "jsdelivr-proxy",
@@ -49,7 +51,8 @@
       "content": "# Amazing Luogu JSDelivr 代理\n\n<https://jsdelivr.amlg.top>。\n\n众所周知，不使用~~魔法~~时，JSDelivr 在国内的访问是一坨，所以它诞生了。\n\n## 使用说明\n\n1. 仅支持 cdn 子域。\n2. 不保证该服务的稳定性，说不定哪天就被 JSDelivr 挂了。\n\n## 更新日志\n\n暂无。",
       "updatedAt": "2026-02-21T18:00:00.00Z",
       "author": "zym2013",
-      "status": "active"
+      "status": "active",
+      "link": "https://jsdelivr.amlg.top"
     }
   ]
 }
