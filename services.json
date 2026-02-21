@@ -1,0 +1,28 @@
+{
+  "services": [
+    {
+      "id": "math-solver",
+      "name": "数学求解器",
+      "description": "支持代数、微积分、线性方程组求解",
+      "icon": "fa-solid fa-calculator",
+      "category": "计算",
+      "tags": ["数学", "求解", "KaTeX"],
+      "content": "## 功能介绍\n\n支持以下运算：\n\n- 一元二次方程：$$x = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}$$\n- 矩阵求逆：$$A^{-1} = \\frac{1}{\\det(A)}\\text{adj}(A)$$\n\n### 代码示例\n```cpp\nvector<double> solveQuadratic(double a, double b, double c) {\n    double delta = b*b - 4*a*c;\n    return {(-b + sqrt(delta))/(2*a), (-b - sqrt(delta))/(2*a)};\n}\n```",
+      "updatedAt": "2024-02-15T10:30:00Z",
+      "author": "zym2013",
+      "status": "active"
+    },
+    {
+      "id": "code-runner",
+      "name": "代码执行引擎",
+      "description": "在线编译运行 C++/Python/Java 代码",
+      "icon": "fa-solid fa-terminal",
+      "category": "开发",
+      "tags": ["代码", "编译", "沙箱"],
+      "content": "## 支持语言\n\n| 语言 | 版本 | 编译器 |\n|------|------|--------|\n| C++ | 17/20 | g++ 13.2 |\n| Python | 3.11 | CPython |\n| Java | 17 | OpenJDK |\n\n> **注意**：单次执行时间限制 5s，内存限制 512MB",
+      "updatedAt": "2024-02-20T14:00:00Z",
+      "author": "zym2013",
+      "status": "active"
+    }
+  ]
+}
