@@ -12,7 +12,7 @@
         "剪贴板",
         "文章"
       ],
-      "content": "# Amazing Luogu 国际\n\n<https://luogu.amlg.top>。\n\n由于普通剪贴板与非全站推荐的文章只能在国际站浏览，而国际站不对国内用户开放，所以 Amazing Luogu 国际诞生了。\n\n该网站并非代理，而是在一些时刻保存了一些文章，以便国内用户浏览。\n\n## 使用说明\n\n1. 如果您想浏览最新版，请核对更新时间是否为最新，如果不是，请更新。\n2. 仅保存最新版，更新后旧版文章会丢失。\n3. API 不向外开放，该网站禁止滥用或反代。\n\n## 更新日志\n\n暂无。\n",
+      "content": "# Amazing Luogu 国际\n\n<https://luogu.amlg.top>。\n\n由于普通剪贴板与非全站推荐的文章只能在国际站浏览，而国际站不对国内用户开放，所以 Amazing Luogu 国际诞生了。\n\n该网站并非代理，而是在一些时刻保存了一些文章，以便国内用户浏览。\n\n## 使用说明\n\n1. 如果您想浏览最新版，请核对更新时间是否为最新，如果不是，请更新。\n2. 仅保存最新版，更新后旧版文章会丢失。\n3. API 不向外开放，该网站禁止滥用或反代。",
       "updatedAt": "2026-02-21T18:00:00.00Z",
       "author": "zym2013",
       "status": "active",
@@ -30,7 +30,7 @@
         "代理",
         "Github"
       ],
-      "content": "# Amazing Luogu Github 代理\n\n<https://ghproxy.amlg.top>。\n\n众所周知，不使用~~魔法~~时，Gitbub 在国内的访问是一坨，所以它诞生了。\n\n## 使用说明\n\n1. 仅能保证基本的浏览，无法登录，最后更新时间还在写。\n2. 不保证该服务的稳定性，说不定哪天就被 Github 挂了。\n\n## 更新日志\n\n暂无。",
+      "content": "# Amazing Luogu Github 代理\n\n<https://ghproxy.amlg.top>。\n\n众所周知，不使用~~魔法~~时，Gitbub 在国内的访问是一坨，所以它诞生了。\n\n## 使用说明\n\n1. 仅能保证基本的浏览，无法登录，最后更新时间还在写。\n2. 不保证该服务的稳定性，说不定哪天就被 Github 挂了。",
       "updatedAt": "2026-02-21T18:00:00.00Z",
       "author": "zym2013",
       "status": "active",
@@ -48,7 +48,7 @@
         "代理",
         "CDN"
       ],
-      "content": "# Amazing Luogu JSDelivr 代理\n\n<https://jsdelivr.amlg.top>。\n\n众所周知，不使用~~魔法~~时，JSDelivr 在国内的访问是一坨，所以它诞生了。\n\n## 使用说明\n\n1. 仅支持 cdn 子域。\n2. 不保证该服务的稳定性，说不定哪天就被 JSDelivr 挂了。\n\n## 更新日志\n\n暂无。",
+      "content": "# Amazing Luogu JSDelivr 代理\n\n<https://jsdelivr.amlg.top>。\n\n众所周知，不使用~~魔法~~时，JSDelivr 在国内的访问是一坨，所以它诞生了。\n\n## 使用说明\n\n1. 仅支持 cdn 子域。\n2. 不保证该服务的稳定性，说不定哪天就被 JSDelivr 挂了。",
       "updatedAt": "2026-02-21T18:00:00.00Z",
       "author": "zym2013",
       "status": "active",
@@ -65,7 +65,7 @@
         "开发",
         "API"
       ],
-      "content": "# Amazing Luogu 翻译 API\n\n<https://translate.amlg.top>。\n\n智能翻译，支持多种语言。\n\n## 使用说明\n\n1. <https://translate.amlg.top/?text=你好&to=en>。\n2. `text` 参数为需要翻译的文本，`to` 参数为目标翻译语言。\n3. 不保证该服务的稳定性，毕竟是 Free 版。\n\n## 更新日志\n\n暂无。",
+      "content": "# Amazing Luogu 翻译 API\n\n<https://translate.amlg.top>。\n\n智能翻译，支持多种语言。\n\n## 使用说明\n\n1. <https://translate.amlg.top/?text=你好&to=en>。\n2. `text` 参数为需要翻译的文本，`to` 参数为目标翻译语言。\n3. 不保证该服务的稳定性，毕竟是 Free 版。",
       "updatedAt": "2026-02-21T18:00:00.00Z",
       "author": "zym2013",
       "status": "active",
@@ -83,7 +83,7 @@
         "API",
         "Markdown"
       ],
-      "content": "# Amazing Luogu 诗词 API\n\n<https://shici.amlg.top>。\n\n诗词 API，提供多种模式，支持 Markdown 和 HTML 的图片嵌入。\n\n## 使用说明\n\n1. 访问 <https://shici.amlg.top> 即可阅读 API 文档。\n2. 不要滥用，图片加载需时间。\n\n## 更新日志\n\n暂无。",
+      "content": "# Amazing Luogu 诗词 API\n\n<https://shici.amlg.top>。\n\n诗词 API，提供多种模式，支持 Markdown 和 HTML 的图片嵌入。\n\n## 使用说明\n\n1. 访问 <https://shici.amlg.top> 即可阅读 API 文档。\n2. 不要滥用，图片加载需时间。",
       "updatedAt": "2026-02-21T18:00:00.00Z",
       "author": "zym2013",
       "status": "active",
@@ -101,7 +101,7 @@
         "API",
         "Markdown"
       ],
-      "content": "# Amazing Luogu 必应壁纸 API\n\n<https://shici.amlg.top>。\n\n必应壁纸 API，提供多种模式，支持 Markdown 和 HTML 的图片嵌入。\n\n## 使用说明\n\n1. 访问 <https://bing.amlg.top> 即可阅读 API 文档。\n2. 不要滥用，图片加载需时间。\n\n## 更新日志\n\n暂无。",
+      "content": "# Amazing Luogu 必应壁纸 API\n\n<https://shici.amlg.top>。\n\n必应壁纸 API，提供多种模式，支持 Markdown 和 HTML 的图片嵌入。\n\n## 使用说明\n\n1. 访问 <https://bing.amlg.top> 即可阅读 API 文档。\n2. 不要滥用，图片加载需时间。",
       "updatedAt": "2026-02-21T18:00:00.00Z",
       "author": "zym2013",
       "status": "active",
@@ -119,7 +119,7 @@
         "API",
         "Markdown"
       ],
-      "content": "# Amazing Luogu NASA 壁纸 API\n\n<https://nasa.amlg.top>。\n\nNASA 壁纸 API，提供多种模式。\n\n## 使用说明\n\n1. `mode` 参数，可选值：`image`、`redirect`、`json`、`translate`、`html`，`date` 参数指定日期，格式为 `YYYY-MM-DD`，默认为当天。\n2. 不要滥用，HTML 处理、翻译需时间。\n\n## 更新日志\n\n暂无。",
+      "content": "# Amazing Luogu NASA 壁纸 API\n\n<https://nasa.amlg.top>。\n\nNASA 壁纸 API，提供多种模式。\n\n## 使用说明\n\n1. `mode` 参数，可选值：`image`、`redirect`、`json`、`translate`、`html`，`date` 参数指定日期，格式为 `YYYY-MM-DD`，默认为当天。\n2. 不要滥用，HTML 处理、翻译需时间。",
       "updatedAt": "2026-02-21T18:00:00.00Z",
       "author": "zym2013",
       "status": "active",
@@ -139,7 +139,7 @@
         "S币",
         "反馈"
       ],
-      "content": "# Amazing Luogu 工单系统\n\n<https://ticket.amlg.top>。\n\n一站式管理 Amazing Luogu 相关服务的工单平台，集成用户认证、S币资产管理、多类型工单处理能力，为 Amazing Luogu 用户提供便捷的问题反馈渠道。\n\n## 核心功能\n\n### 1. 用户认证体系\n- 支持账号注册/登录，关联洛谷UID\n- 个人信息管理，包含头像、用户名等基础信息\n- 实时展示S币余额，支持管理员调整用户S币\n\n### 2. 工单管理\n- **工单列表**：查看所有工单ID、标题、类型、状态、创建时间，支持权限控制（博客工单仅管理员/所有者可见）\n- **新建工单**：支持3种工单类型：\n  - 问题反馈：详细描述遇到的问题，助力快速定位解决\n  - 子域名注册：申请专属的 amlg.top 子域名\n  - 博客注册：配置个性化博客（支持用户名、Slogan、Supabase 配置、社交链接等）\n- **工单详情**：查看工单完整信息，管理员可修改工单状态、导出工单JSON数据\n\n### 3. S币资产管理\n- 实时展示用户S币余额\n- 管理员可对用户S币进行增减调整\n- S币用于支付各类洛谷相关服务费用\n\n### 4. 个性化体验\n- 支持亮色/暗色主题切换，适配不同使用习惯\n- 响应式设计，兼容桌面端与移动端访问\n- 流畅的动画过渡效果，提升操作体验\n\n## 使用说明\n\n1. 访问 <https://ticket.amlg.top> 进入工单系统\n2. 未登录用户需先完成注册/登录操作\n3. 首页可快速进入工单列表、新建工单或查看S币余额\n4. 新建工单时根据需求选择对应类型，填写完整信息后提交\n5. 管理员可在工单详情页修改工单状态、调整用户S币或导出工单数据\n\n## 工单类型说明\n| 类型 | 说明 |\n|------|------|\n| 问题反馈 | 提交使用过程中遇到的问题，需详细描述问题场景 |\n| 服务购买 - 子域名注册 | 申请 amlg.top 后缀的子域名，格式为「前缀.amlg.top」 |\n| 服务购买 - 博客注册 | 配置个性化博客，需填写Supabase地址、Anon Key等核心参数 |\n\n## 更新日志\n\n### v1.0.0\n- 初始版本发布，支持基础的用户认证、工单CRUD、S币管理\n- 实现博客工单权限控制、主题切换、响应式布局\n- 支持工单JSON导出、状态修改等管理员功能",
+      "content": "# Amazing Luogu 工单系统\n\n<https://ticket.amlg.top>。\n\n一站式管理 Amazing Luogu 相关服务的工单平台，集成用户认证、S币资产管理、多类型工单处理能力，为 Amazing Luogu 用户提供便捷的问题反馈渠道。\n\n## 核心功能\n\n### 1. 用户认证体系\n- 支持账号注册/登录，关联洛谷UID\n- 个人信息管理，包含头像、用户名等基础信息\n- 实时展示S币余额，支持管理员调整用户S币\n\n### 2. 工单管理\n- **工单列表**：查看所有工单ID、标题、类型、状态、创建时间，支持权限控制（博客工单仅管理员/所有者可见）\n- **新建工单**：支持3种工单类型：\n  - 问题反馈：详细描述遇到的问题，助力快速定位解决\n  - 子域名注册：申请专属的 amlg.top 子域名\n  - 博客注册：配置个性化博客（支持用户名、Slogan、Supabase 配置、社交链接等）\n- **工单详情**：查看工单完整信息，管理员可修改工单状态、导出工单JSON数据\n\n### 3. S币资产管理\n- 实时展示用户S币余额\n- 管理员可对用户S币进行增减调整\n- S币用于支付各类洛谷相关服务费用\n\n### 4. 个性化体验\n- 支持亮色/暗色主题切换，适配不同使用习惯\n- 响应式设计，兼容桌面端与移动端访问\n- 流畅的动画过渡效果，提升操作体验\n\n## 使用说明\n\n1. 访问 <https://ticket.amlg.top> 进入工单系统\n2. 未登录用户需先完成注册/登录操作\n3. 首页可快速进入工单列表、新建工单或查看S币余额\n4. 新建工单时根据需求选择对应类型，填写完整信息后提交\n5. 管理员可在工单详情页修改工单状态、调整用户S币或导出工单数据\n\n## 工单类型说明\n| 类型 | 说明 |\n|------|------|\n| 问题反馈 | 提交使用过程中遇到的问题，需详细描述问题场景 |\n| 服务购买 - 子域名注册 | 申请 amlg.top 后缀的子域名，格式为「前缀.amlg.top」 |\n| 服务购买 - 博客注册 | 配置个性化博客，需填写Supabase地址、Anon Key等核心参数 |",
       "updatedAt": "2026-02-21T18:00:00.00Z",
       "author": "zym2013",
       "status": "active",
