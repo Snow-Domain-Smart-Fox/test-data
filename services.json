@@ -146,6 +146,22 @@
       "link": "https://ticket.amlg.top"
     },
     {
+      "id": "docs",
+      "name": "Amazing Luogu 帮助文档",
+      "description": "Amazing Luogu 帮助文档",
+      "icon": "fa-solid fa-ticket",
+      "iconSvg": null,
+      "category": "工具",
+      "tags": [
+        "文档"
+      ],
+      "content": "# Amazing Luogu 帮助文档\n\n自己看<https://amlg.top/amldocs/>去。",
+      "updatedAt": "2026-02-21T18:00:00.00Z",
+      "author": "zym2013",
+      "status": "active",
+      "link": "https://amlg.top/amldocs/"
+    },
+    {
       "id": "compresser",
       "name": "C++ 代码压缩",
       "description": "C++ 代码压缩",
